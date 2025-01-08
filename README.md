@@ -14,13 +14,13 @@ This repository contains implementations of Deep Convolutional Generative Advers
 - Grayscale Mammography Images (Gri Tonlamalı Mamografi Görüntüleri)
 
 ## 📋 Table of Contents (İçindekiler)
-- [Overview](#overview) (Genel Bakış)
-- [Project Structure](#project-structure) (Proje Yapısı)
-- [Model Architectures](#model-architectures) (Model Mimarileri)
-- [Training Parameters](#training-parameters) (Eğitim Parametreleri)
-- [Implementation Details](#implementation-details) (Uygulama Detayları)
-- [Results](#results) (Sonuçlar)
-- [Requirements](#requirements) (Gereksinimler)
+- [Overview (Genel Bakış)](#overview-genel-bakış)
+- [Project Structure (Proje Yapısı)](#project-structure-proje-yapısı)
+- [Model Architectures (Model Mimarileri)](#model-architectures-model-mimarileri)
+- [Training Parameters (Eğitim Parametreleri)](#training-parameters-eğitim-parametreleri)
+- [Implementation Details (Uygulama Detayları)](#implementation-details-uygulama-detayları)
+- [Results (Sonuçlar)](#results-sonuçlar)
+- [Requirements (Gereksinimler)](#requirements-gereksinimler)
 
 ## 🔍 Overview (Genel Bakış)
 
