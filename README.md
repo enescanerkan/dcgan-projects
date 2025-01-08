@@ -43,6 +43,9 @@ This project implements DCGANs to generate synthetic images in three distinct do
 
 ## 🏗️ Model Architectures (Model Mimarileri)
 
+![DCGAN-Architecture-used-in-this-study-Numbers-at-the-bottom-of-each-layer-indicate-the](https://github.com/user-attachments/assets/5859b3ce-e7c4-4017-b8bc-3cf1d070ce0d)
+
+
 ### Generator Architecture (Üretici Mimarisi)
 ```
 Input: (latent_dim x 1 x 1) (Girdi: (gizli_boyut x 1 x 1))
@@ -146,16 +149,9 @@ pip install -r requirements.txt
 ```
 
 3. Run training for specific domain (Belirli alan için eğitimi çalıştırın):
-```bash
-# For Fashion DCGAN (Moda DCGAN için)
-python fashion_dcgan.py
 
-# For Food DCGAN (Yemek DCGAN için)
-python food_dcgan.py
+* All the training code is contained within the dc-gan-training.ipynb file.(Tüm eğitim kodları dc-gan-training.ipynb içinde yer almaktadır.) 
 
-# For Mammography DCGAN (Mamografi DCGAN için)
-python mammography_dcgan.py
-```
 
 ## 📊 Results (Sonuçlar)
 
