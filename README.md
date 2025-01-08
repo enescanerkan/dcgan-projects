@@ -1,5 +1,12 @@
 # DCGAN Implementations for Multiple Domains (Çoklu Alan için DCGAN Uygulamaları)
 
+## Datasets
+
+- **Food Images**: RGB food images from the [Kaggle Food-101 Dataset](https://www.kaggle.com/datasets/kmader/food41)  
+- **Fashion Items**: Grayscale clothing, shoes, and bags from the [Fashion-MNIST Dataset](https://github.com/zalandoresearch/fashion-mnist)  
+- **Mammography Images**: Grayscale medical imaging from the [VinDr-Mammo Dataset](https://vindr.ai/datasets/mammo) 
+
+  
 This repository contains implementations of Deep Convolutional Generative Adversarial Networks (DCGANs) for generating synthetic images across three different domains (Bu depo, üç farklı alanda sentetik görüntüler oluşturmak için Derin Evrişimli Üretici Çekişmeli Ağların (DCGAN) uygulamalarını içerir):
 
 - Grayscale Fashion Items - clothing, shoes, bags (Gri Tonlamalı Moda Öğeleri - kıyafet, ayakkabı, çanta)
