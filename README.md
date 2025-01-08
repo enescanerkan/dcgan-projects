@@ -1,4 +1,4 @@
-# DCGAN Implementations for Multiple Domains (Çoklu Alan için DCGAN Uygulamaları)
+# DCGAN Implementations for Different Domains (Farklı Alanlar İçin DCGAN Uygulamaları
 
 ## Datasets
 
